@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/alvarosaburido/image/upload/v1593159661/CV_og_dw88fj.png)
+![Banner](https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/gh-banner.png)
 ---
 <p align='center'>
 <a href="https://dev.to/alvarosaburido"><img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/dev-rainbow.png"></a>&nbsp;&nbsp;
