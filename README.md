@@ -1,4 +1,11 @@
-### Hi there 👋
+![Banner](https://res.cloudinary.com/alvarosaburido/image/upload/v1593159661/CV_og_dw88fj.png)
+---
+### Hi there 👋 🐧
+
+I'm Alvaro, I create content and contribute to open source mainly related to Front-end and IoT (Internet of Things). I'm passionate about coding, UI/UX, electronics & love to keep learning and sharing knowledge in the community. 
+
+🔭 I’m currently working as Front-End Software Engineer at [Netcentric](https://github.com/Netcentric) also doing Frontend Events and `Vue.js` Badge Keeper
+
 
 <!--
 **alvarosaburido/alvarosaburido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
