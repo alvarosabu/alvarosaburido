@@ -29,6 +29,11 @@ I like to write a lot, mustly technical articles, you can see a full list here [
 ### Last articles on [dev.to](https://dev.to/alvarosaburido) 👨🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into Vue Dynamic Forms.](https://dev.to/alvarosaburido/deep-dive-into-vue-dynamic-forms-233g)
+- [Multi-Language Blog with Nuxt content module.](https://dev.to/alvarosaburido/multi-language-blog-with-nuxt-content-module-1dj8)
+- [The Magic of SVG Clip-path](https://dev.to/alvarosaburido/the-magic-of-svg-clip-path-1lf0)
+- [Particle Photon 101 - Getting Started Guide](https://dev.to/alvarosaburido/particle-photon-101-getting-started-guide-369b)
+- [Hasura GraphQL Baas for the busy developer](https://dev.to/alvarosaburido/hasura-graphql-baas-for-the-busy-developer-101)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
