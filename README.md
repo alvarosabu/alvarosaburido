@@ -26,7 +26,7 @@ I like to write a lot, mustly technical articles, you can see a full list here [
 |---|---|---|---|---|---|
 
 
-### Last articles on [dev.to](https://dev.to/alvarosaburido)
+### Last articles on [dev.to](https://dev.to/alvarosaburido)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
