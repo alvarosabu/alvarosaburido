@@ -25,6 +25,12 @@ I like to write a lot, mustly technical articles, you can see a full list here [
 | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/vue.png?raw=true">  | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/nuxt.png?raw=true">  | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/angular.png?raw=true">  | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/ionic-flat.png?raw=true">  | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/graphql.png?raw=true">  | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/hasura.png?raw=true">  |
 |---|---|---|---|---|---|
 
+
+### Last articles on [dev.to](https://dev.to/alvarosaburido)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **alvarosaburido/alvarosaburido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
