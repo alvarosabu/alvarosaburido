@@ -10,7 +10,7 @@
 
 I'm Alvaro, I produce creative content and contribute to open source mainly related to Front-end and IoT (Internet of Things). I'm passionate about coding, UI/UX, electronics & love to keep learning and sharing knowledge in the community. 
 
-I like to write a lot, mostly technical articles, you can see a full list here [blog](https://alvarosaburido.com/blog). If you find usefull what I write give some ♥  on [DEV.to/alvarosaburido](https://dev.to/alvarosaburido) or share a ☕️ with me:
+I like to write a lot, mostly technical articles, you can see a full list here [blog](https://alvarosaburido.com/blog). If you find content useful give some ♥  on [DEV.to/alvarosaburido](https://dev.to/alvarosaburido) or share a ☕️ with me:
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z01ZTC0)
 
