@@ -31,11 +31,11 @@ I like to write a lot, mostly technical articles, you can see a full list here [
 ### Last articles on [dev.to](https://dev.to/alvarosaburido) 👨🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
+- [The importance of admiring in tech](https://dev.to/alvarosaburido/the-importance-of-admiring-in-tech-3cl3)
 - [Use custom Emoji as a cursor using CSS 😜.](https://dev.to/alvarosaburido/use-custom-emoji-as-a-cursor-using-css-3j7)
 - [How to migrate your library from Vue2 to Vue3](https://dev.to/alvarosaburido/how-to-migrate-your-library-from-vue2-to-vue3-1h81)
 - [Quick A/B Poll: Which card style you like better?](https://dev.to/alvarosaburido/quick-a-b-poll-which-card-style-you-like-better-23gb)
 - [Deep dive into Vue Dynamic Forms.](https://dev.to/alvarosaburido/deep-dive-into-vue-dynamic-forms-233g)
-- [Multi-Language Blog with Nuxt content module.](https://dev.to/alvarosaburido/multi-language-blog-with-nuxt-content-module-1dj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
