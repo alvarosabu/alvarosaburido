@@ -31,11 +31,11 @@ I like to write a lot, mostly technical articles, you can see a full list here [
 ### Last articles on [dev.to](https://dev.to/alvarosaburido) 👨🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
+- [Create modals with Vue3 Teleport + TailwindCSS](https://dev.to/alvarosaburido/create-modals-with-vue3-teleport-tailwindcss-48aj)
 - [Using script Setup for Vue 3 SFCs](https://dev.to/alvarosaburido/using-script-setup-for-vue-3-sfcs-ba9)
 - [How to create a Universal Library for Vue 2 & 3](https://dev.to/alvarosaburido/how-to-create-a-universal-library-for-vue-2-3-4lf8)
 - [Create Dynamic Forms in Vue3.](https://dev.to/alvarosaburido/create-dynamic-forms-in-vue3-4do0)
 - [The importance of admiring in tech](https://dev.to/alvarosaburido/the-importance-of-admiring-in-tech-3cl3)
-- [Use custom Emoji as a cursor using CSS 😜.](https://dev.to/alvarosaburido/use-custom-emoji-as-a-cursor-using-css-3j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
