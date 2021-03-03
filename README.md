@@ -31,11 +31,11 @@ I like to write a lot, mostly technical articles, you can see a full list here [
 ### Last articles on [dev.to](https://dev.to/alvarosaburido) 👨🏼‍💻
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite 2 - A speed comparison in Vue](https://dev.to/alvarosaburido/vite-2-a-speed-comparison-in-vue-1f5j)
 - [CSS aspect-ratio for the win](https://dev.to/alvarosaburido/css-aspect-ratio-for-the-win-1hkc)
 - [Create modals with Vue3 Teleport + TailwindCSS](https://dev.to/alvarosaburido/create-modals-with-vue3-teleport-tailwindcss-48aj)
 - [Using script Setup for Vue 3 SFCs](https://dev.to/alvarosaburido/using-script-setup-for-vue-3-sfcs-ba9)
 - [How to create a Universal Library for Vue 2 & 3](https://dev.to/alvarosaburido/how-to-create-a-universal-library-for-vue-2-3-4lf8)
-- [Create Dynamic Forms in Vue3.](https://dev.to/alvarosaburido/create-dynamic-forms-in-vue3-4do0)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
