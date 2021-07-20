@@ -14,7 +14,7 @@ I like to write a lot, mostly technical articles, you can see a full list here [
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z01ZTC0)
 
-🔭 I’m currently working as Front-End Software Engineer at [Netcentric](https://github.com/Netcentric) also doing Frontend Events and `Vue.js` Badge Keeper
+🔭 I’m currently working as Front-End Software Engineer at [Porsche Digital](https://bcn.porsche.digital/) also doing Frontend Events and `Vue.js` Badge Keeper
 
 
 ### Core tech
